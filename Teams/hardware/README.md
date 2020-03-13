@@ -1,5 +1,4 @@
-# Virgo Hardware
-NB: This document is still being revised and you're invited to revise it with us!
+# Hardware
 
 ### Why Build Open Hardware?
 
