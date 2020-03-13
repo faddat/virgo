@@ -73,7 +73,7 @@ Here's a little of what that will take:
 
 This product will let everyone have a well-understood, community-designed, modular computer in their pocket.  
 
-### Tracking / Talk to us!
-Daily task updates and stimulating conversation can be found in our Discord Chat:
+### Talk to us!
+Daily updates and stimulating conversation can be found in our Discord Chat:
 
 https://discord.gg/kGCA57k
