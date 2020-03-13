@@ -32,7 +32,7 @@ And we'd love your help with this, and to help you with it, as well.
 
 ### Products
 
-All of our products will be 100% open source.  Open cores, open PCB Layout, open BOM.
+All of our products are 100% open source and community developed.  Open cores, open PCB Layout, open BOM.
 Since the design will be publicly available, any manufacturer with the right equipment should be able to build these.
 
 #### *HSM*
